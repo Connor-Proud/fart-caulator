@@ -14,6 +14,7 @@ you will need python and the kivy extension for this
 
 
 This project was created by connor proudlock, a nonprofit guy yk. The audio assets used have been heavily edited
-and are believed to fall under fair use for nonprofit purposes. If there are any concerns regarding the use of these
-assets, please contact me at contact.connor.proudlock@gmail.com, and if i can be bothered (which i will be when i see
+and are believed to fall under fair use for nonprofit purposes and will be used only to demonstrate the capabilities
+of my application. If there are any concerns regarding the use of these assets, please contact me at
+contact.connor.proudlock@gmail.com, and if i can be bothered (which i will be when i see
 i have been contacted) i will address the issue.
